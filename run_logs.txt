@@ -5,3 +5,1012 @@ To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC ph
 
 G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian journal of rural medicine _ the official journal of the Society of Rural Physicians of Canada = Journal canadien de la médecine rurale _ le journal officiel de la Société de médecine rurale du Canada.json
 To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian journal of rural medicine _ the official journal of the Society of Rural Physicians of Canada _ Journal canadien de la médecine rurale _ le journal officiel de la Société de médecine rurale du Canada.json
+
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anales del Jardin Botanico de Madrid.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anales_del_Jardin_Botanico_de_Madrid.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anales del Seminario de Historia de la Filosofia.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anales_del_Seminario_de_Historia_de_la_Filosofia.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anali Hrvatskog Politoloskog Drustva.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anali_Hrvatskog_Politoloskog_Drustva.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anali Zavoda za Povijesne Znanosti Hrvatske Akademije Znanosti i Umjetnosti u Dubrovniku.json  
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anali_Zavoda_za_Povijesne_Znanosti_Hrvatske_Akademije_Znanosti_i_Umjetnosti_u_Dubrovniku.json       
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analise Social.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analise_Social.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analisi Linguistica e Letteraria.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analisi_Linguistica_e_Letteraria.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analisis Filosofico.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analisis_Filosofico.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analitika i Kontrol.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analitika_i_Kontrol.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analiza i Egzystencja.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analiza_i_Egzystencja.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analyse und Kritik.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analyse_und_Kritik.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analysis and Geometry in Metric Spaces.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analysis_and_Geometry_in_Metric_Spaces.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytica Chimica Acta_ X.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytica_Chimica_Acta__X.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical and Bioanalytical Chemistry Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical_and_Bioanalytical_Chemistry_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical Cellular Pathology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical_Cellular_Pathology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical Chemistry Insights.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical_Chemistry_Insights.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical Chemistry Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical_Chemistry_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical Sciences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Analytical_Sciences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anatolian journal of cardiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anatolian_journal_of_cardiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anatomy and Cell Biology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anatomy_and_Cell_Biology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Ancient Asia.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Ancient_Asia.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Andean Geology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Andean_Geology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anesthesiology Research and Practice.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anesthesiology_Research_and_Practice.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Angle Orthodontist.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Angle_Orthodontist.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal Biodiversity and Conservation.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal_Biodiversity_and_Conservation.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal Biotelemetry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal_Biotelemetry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal Cells and Systems.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal_Cells_and_Systems.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal Nutrition and Feed Technology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal_Nutrition_and_Feed_Technology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal Nutrition.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal_Nutrition.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal Production Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal_Production_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal Reproduction.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal_Reproduction.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal Science Papers and Reports.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Animal_Science_Papers_and_Reports.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Ankara Universitesi Eczacilik Fakultesi Dergisi.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Ankara_Universitesi_Eczacilik_Fakultesi_Dergisi.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Ankara Universitesi Veteriner Fakultesi Dergisi.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Ankara_Universitesi_Veteriner_Fakultesi_Dergisi.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annales Academiae Scientiarum Fennicae Mathematica.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annales_Academiae_Scientiarum_Fennicae_Mathematica.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annales de la Fondation Louis de Broglie.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annales_de_la_Fondation_Louis_de_Broglie.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annales Geophysicae.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annales_Geophysicae.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annales Mathematicae et Informaticae.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annales_Mathematicae_et_Informaticae.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annali dell’Istituto Superiore di Sanita.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annali_dell’Istituto_Superiore_di_Sanita.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annali di Botanica.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annali_di_Botanica.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annali di Ca Foscari Serie Orientale.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annali_di_Ca_Foscari_Serie_Orientale.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of African Surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_African_Surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Agricultural and Environmental Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Agricultural_and_Environmental_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Agricultural Sciences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Agricultural_Sciences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Anatomy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Anatomy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Animal Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Animal_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Botany.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Botany.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Burns and Fire Disasters.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Burns_and_Fire_Disasters.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Cardiac Anaesthesia.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Cardiac_Anaesthesia.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Clinical and Translational Neurology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Clinical_and_Translational_Neurology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Clinical Microbiology and Antimicrobials.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Clinical_Microbiology_and_Antimicrobials.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Coloproctology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Coloproctology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Dermatology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Dermatology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Family Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Family_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Forest Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Forest_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Functional Analysis.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Functional_Analysis.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Gastroenterology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Gastroenterology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of General Psychiatry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_General_Psychiatry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Geophysics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Geophysics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Glaciology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Glaciology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Global Health.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Global_Health.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Indian Academy of Neurology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Indian_Academy_of_Neurology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Intensive Care.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Intensive_Care.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Laboratory Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Laboratory_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Library and Information Studies.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Library_and_Information_Studies.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Long-Term Care.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Long-Term_Care.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Medicine and Surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Medicine_and_Surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of microbiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_microbiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Neurosciences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Neurosciences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Occupational and Environmental Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Occupational_and_Environmental_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Pediatric Cardiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Pediatric_Cardiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Pediatric Endocrinology and Metabolism.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Pediatric_Endocrinology_and_Metabolism.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Pediatric Surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Pediatric_Surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Rehabilitation Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Rehabilitation_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Saudi Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Saudi_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Silvicultural Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Silvicultural_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Surgical Treatment and Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Surgical_Treatment_and_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of the Academy of Romanian Scientists_ Series on Mathematics and its Applications.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_the_Academy_of_Romanian_Scientists__Series_on_Mathematics_and_its_Applications.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of the University Dunarea de Jos of Galati, Fascicle VI_ Food Technology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_the_University_Dunarea_de_Jos_of_Galati,_Fascicle_VI__Food_Technology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Thoracic Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Thoracic_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of Tropical Medicine and Public Health.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_Tropical_Medicine_and_Public_Health.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals of “Dunarea de Jos” University of Galati, Fascicle XII, Welding Equipment and Technology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annals_of_“Dunarea_de_Jos”_University_of_Galati,_Fascicle_XII,_Welding_Equipment_and_Technology.jsonRenamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annual Review of CyberTherapy and Telemedicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annual_Review_of_CyberTherapy_and_Telemedicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annual Review of Materials Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annual_Review_of_Materials_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annual Review of Microbiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annual_Review_of_Microbiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annual review of statistics and its application.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Annual_review_of_statistics_and_its_application.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anos 90.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anos_90.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Antarctic Record.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Antarctic_Record.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anthropological Notebooks.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anthropological_Notebooks.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anthropological Review.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anthropological_Review.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anthropology in Action.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anthropology_in_Action.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Antimicrobial Resistance and Infection Control.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Antimicrobial_Resistance_and_Infection_Control.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Antioxidants and Redox Signaling.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Antioxidants_and_Redox_Signaling.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario Calderoniano.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario_Calderoniano.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario Colombiano de Historia Social y de la Cultura.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario_Colombiano_de_Historia_Social_y_de_la_Cultura.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario de Estudios Americanos.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario_de_Estudios_Americanos.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario de Estudios Medievales.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario_de_Estudios_Medievales.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario de Historia de la Iglesia.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario_de_Historia_de_la_Iglesia.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario de Psicologia Juridica.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario_de_Psicologia_Juridica.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario do Instituto de Geociencias.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario_do_Instituto_de_Geociencias.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario Lope de Vega.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Anuario_Lope_de_Vega.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Applied Computing and Informatics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Applied_Computing_and_Informatics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Aquatic Botany.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Aquatic_Botany.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Arabian journal for science and engineering.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Arabian_journal_for_science_and_engineering.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Arboricultural Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Arboricultural_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Archives of Dermatological Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Archives_of_Dermatological_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Asian Pacific Journal of Tropical Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Asian_Pacific_Journal_of_Tropical_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Australasian Journal of Educational Technology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Australasian_Journal_of_Educational_Technology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Australian and New Zealand journal of statistics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Australian_and_New_Zealand_journal_of_statistics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Australian Journal of Botany.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Australian_Journal_of_Botany.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Australian Systematic Botany.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Australian_Systematic_Botany.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baghdad Science Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baghdad_Science_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bajo Palabra.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bajo_Palabra.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Balkan Journal of Geometry and its Applications.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Balkan_Journal_of_Geometry_and_its_Applications.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Balkan Journal of Medical Genetics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Balkan_Journal_of_Medical_Genetics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Balkan Medical Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Balkan_Medical_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic Forestry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic_Forestry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic Journal of Art History.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic_Journal_of_Art_History.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic Journal of Economics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic_Journal_of_Economics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic Journal of European Studies.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic_Journal_of_European_Studies.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic Journal of Law and Politics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic_Journal_of_Law_and_Politics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic Journal of Road and Bridge Engineering.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic_Journal_of_Road_and_Bridge_Engineering.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic Region.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Baltic_Region.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bangladesh Journal of Botany.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bangladesh_Journal_of_Botany.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bangladesh Journal of Medical Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bangladesh_Journal_of_Medical_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bangladesh Journal of Pharmacology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bangladesh_Journal_of_Pharmacology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bangladesh Medical Research Council Bulletin.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bangladesh_Medical_Research_Council_Bulletin.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Banks and Bank Systems.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Banks_and_Bank_Systems.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BAR – Brazilian Administration Review.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BAR_–_Brazilian_Administration_Review.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Basic and Clinical Andrology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Basic_and_Clinical_Andrology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Basic and Clinical Neuroscience.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Basic_and_Clinical_Neuroscience.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BBA Clinical.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BBA_Clinical.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BDJ Open.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BDJ_Open.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Behavioral and Brain Functions.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Behavioral_and_Brain_Functions.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Behavioral Sciences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Behavioral_Sciences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Behavioural Neurology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Behavioural_Neurology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Beilstein Journal of Nanotechnology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Beilstein_Journal_of_Nanotechnology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Beilstein Journal of Organic Chemistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Beilstein_Journal_of_Organic_Chemistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bellaterra Journal of Teaching and Learning Language and Literature.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bellaterra_Journal_of_Teaching_and_Learning_Language_and_Literature.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biblica et Patristica Thoruniensia.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biblica_et_Patristica_Thoruniensia.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biblical Annals.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biblical_Annals.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biharean Biologist.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biharean_Biologist.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bijdragen en Mededelingen Betreffende de Geschiedenis der Nederlanden.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bijdragen_en_Mededelingen_Betreffende_de_Geschiedenis_der_Nederlanden.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bijdragen tot de Taal-, Land- en Volkenkunde.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bijdragen_tot_de_Taal-,_Land-_en_Volkenkunde.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bilgi Dunyasi.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bilgi_Dunyasi.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bio-based and Applied Economics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bio-based_and_Applied_Economics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioactive Materials.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioactive_Materials.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioarchaeology of the Near East.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioarchaeology_of_the_Near_East.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biochemia Medica.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biochemia_Medica.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biochemistry and Biophysics Reports.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biochemistry_and_Biophysics_Reports.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biochemistry Research International.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biochemistry_Research_International.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biochimie Open.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biochimie_Open.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioData Mining.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioData_Mining.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biodiversity Data Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biodiversity_Data_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biofuel Research Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biofuel_Research_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioinformatics and Biology Insights.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioinformatics_and_Biology_Insights.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioinorganic Chemistry and Applications.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioinorganic_Chemistry_and_Applications.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biointerface Research in Applied Chemistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biointerface_Research_in_Applied_Chemistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioInvasions Records.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioInvasions_Records.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioLaw Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioLaw_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biologia Plantarum.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biologia_Plantarum.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biological Letters.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biological_Letters.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biological Procedures Online.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biological_Procedures_Online.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biological Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biological_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biologics_ Targets and Therapy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biologics__Targets_and_Therapy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biology Direct.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biology_Direct.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biology of Sex Differences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biology_of_Sex_Differences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biology of Sport.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biology_of_Sport.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biology Open.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biology_Open.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomarker Insights.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomarker_Insights.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomarker Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomarker_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomaterials Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomaterials_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioMed Research International.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioMed_Research_International.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical and Pharmacology Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical_and_Pharmacology_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioMedical Engineering Online.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioMedical_Engineering_Online.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical Glasses.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical_Glasses.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical Human Kinetics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical_Human_Kinetics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical Optics Express.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical_Optics_Express.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical papers of the Medical Faculty of the University Palacký, Olomouc, Czechoslovakia.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical_papers_of_the_Medical_Faculty_of_the_University_Palacký,_Olomouc,_Czechoslovakia.json    
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical Photonics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical_Photonics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical Research and Therapy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical_Research_and_Therapy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomedical_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioMedicine (Netherlands).json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioMedicine_(Netherlands).json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomolecular Concepts.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomolecular_Concepts.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomolecular Detection and Quantification.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biomolecular_Detection_and_Quantification.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biopolymers and Cell.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biopolymers_and_Cell.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioPsychoSocial Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BioPsychoSocial_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioresources and Bioprocessing.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioresources_and_Bioprocessing.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioscience Horizons.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioscience_Horizons.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioscience Reports.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bioscience_Reports.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biosurface and Biotribology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biosurface_and_Biotribology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biota Neotropica.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biota_Neotropica.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology Advances.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology_Advances.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology and Biotechnological Equipment.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology_and_Biotechnological_Equipment.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology for Biofuels.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology_for_Biofuels.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology Reports.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology_Reports.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology, Agronomy and Society and Environment.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotechnology,_Agronomy_and_Society_and_Environment.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotecnologia Aplicada.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Biotecnologia_Aplicada.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bitacora Urbano Territorial.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Bitacora_Urbano_Territorial.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BJA Education.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BJA_Education.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BJPsych Bulletin.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Blood Cancer Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Blumea_ Journal of Plant Taxonomy and Plant Geography.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Blumea__Journal_of_Plant_Taxonomy_and_Plant_Geography.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMB Reports.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMB_Reports.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Anesthesiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Anesthesiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Biochemistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Biochemistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Bioinformatics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Bioinformatics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Biology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Biology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Biophysics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Biophysics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Biotechnology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Biotechnology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Cancer.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Cancer.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Cardiovascular Disorders.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Cardiovascular_Disorders.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Cell Biology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Cell_Biology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC chemistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_chemistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Clinical Pathology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Clinical_Pathology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Complementary and Alternative Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Complementary_and_Alternative_Medicine.json     
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC dermatology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_dermatology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Developmental Biology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Developmental_Biology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Ear, Nose and Throat Disorders.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Ear,_Nose_and_Throat_Disorders.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Ecology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Ecology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Emergency Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Emergency_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Endocrine Disorders.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Endocrine_Disorders.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Evolutionary Biology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Evolutionary_Biology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Family Practice.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Family_Practice.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Gastroenterology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Gastroenterology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Genetics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Genetics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Geriatrics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Geriatrics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Health Services Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Health_Services_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Hematology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Hematology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Immunology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Immunology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Infectious Diseases.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Infectious_Diseases.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC International Health and Human Rights.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_International_Health_and_Human_Rights.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Medical Education.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Medical_Education.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Medical Ethics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Medical_Ethics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Medical Genetics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Medical_Genetics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Medical Imaging.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Medical_Imaging.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Medical Informatics and Decision Making.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Medical_Informatics_and_Decision_Making.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Medical Research Methodology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Medical_Research_Methodology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Microbiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Microbiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Molecular and Cell Biology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Molecular_and_Cell_Biology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Molecular Biology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Molecular_Biology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Musculoskeletal Disorders.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Musculoskeletal_Disorders.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Nephrology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Nephrology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Neurology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Neurology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Neuroscience.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Neuroscience.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Nursing.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Nursing.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Obesity.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Obesity.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Ophthalmology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Ophthalmology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Oral Health.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Oral_Health.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Palliative Care.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Palliative_Care.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Pediatrics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Pediatrics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC pharmacology _ toxicology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_pharmacology___toxicology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC Physiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_Physiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC public health.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC_public_health.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Botany letters.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Botany_letters.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Brain Informatics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Brain_Informatics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Brain pathology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Brain_pathology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\British Dental Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\British_Dental_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\British Journal of Anaesthesia.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\British_Journal_of_Anaesthesia.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\British Journal of Dermatology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\British_Journal_of_Dermatology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\British Journal of Ophthalmology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\British_Journal_of_Ophthalmology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Ca-A Cancer Journal for Clinicians.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Ca-A_Cancer_Journal_for_Clinicians.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Caderno CRH.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Caderno_CRH.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos CEDES.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos_CEDES.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos de Estudos Africanos.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos_de_Estudos_Africanos.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos de Pesquisa.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos_de_Pesquisa.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos de Saude Publica.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos_de_Saude_Publica.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos do Laboratorio Xeoloxico de Laxe.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos_do_Laboratorio_Xeoloxico_de_Laxe.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos Pagu.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cadernos_Pagu.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cahiers Agricultures.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cahiers_Agricultures.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cahiers des Etudes Anciennes.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cahiers_des_Etudes_Anciennes.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cahiers d’Etudes Africaines.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cahiers_d’Etudes_Africaines.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cahiers Victoriens and Edouardiens.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cahiers_Victoriens_and_Edouardiens.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cakrawala Pendidikan.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cakrawala_Pendidikan.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\California Agriculture.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\California_Agriculture.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Calitatea Vietii.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Calitatea_Vietii.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Family Physician.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Family_Physician.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Geriatrics Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Geriatrics_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Bioethics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Bioethics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Dental Hygiene.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Dental_Hygiene.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Gastroenterology and Hepatology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Gastroenterology_and_Hepatology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Infectious Diseases and Medical Microbiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Infectious_Diseases_and_Medical_Microbiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Kidney Health and Disease.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Kidney_Health_and_Disease.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Learning and Technology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Learning_and_Technology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian journal of rural medicine _ the official journal of the Society of Rural Physicians of Canada _ Journal canadien de la médecine rurale _ le journal officiel de la Société de médecine rurale du Canada.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_journal_of_rural_medicine___the_official_journal_of_the_Society_of_Rural_Physicians_of_Canada___Journal_canadien_de_la_médecine_rurale___le_journal_officiel_de_la_Société_de_médecine_rurale_du_Canada.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Sociology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Sociology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Speech-Language Pathology and Audiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Speech-Language_Pathology_and_Audiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Journal of Urban Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Journal_of_Urban_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Respiratory JournalCanadian Review of Comparative Literature.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Respiratory_JournalCanadian_Review_of_Comparative_Literature.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Studies in Population.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Studies_in_Population.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian Urological Association Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian_Urological_Association_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Biology and Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Biology_and_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Cell International.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Cell_International.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Communications.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Communications.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Control.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Control.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Imaging.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Imaging.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Informatics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Informatics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Management and Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Management_and_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Nanotechnology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Nanotechnology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Research and Treatment.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Research_and_Treatment.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cancer_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Capitale Culturale.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Capitale_Culturale.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Carbon Balance and Management.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Carbon_Balance_and_Management.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiology Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiology_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiology Research and Practice.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiology_Research_and_Practice.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiovascular Diabetology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiovascular_Diabetology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiovascular Psychiatry and Neurology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiovascular_Psychiatry_and_Neurology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiovascular Therapeutics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cardiovascular_Therapeutics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cell and Tissue Banking.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cell_and_Tissue_Banking.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Chemical Reviews.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Chemical_Reviews.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Child Abuse Review.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Child_Abuse_Review.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Clinical Cardiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Clinical_Cardiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Clinical Diabetes and Endocrinology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Clinical_Diabetes_and_Endocrinology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Clinical Oral Implants Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Clinical_Oral_Implants_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Clinics in Dermatology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Clinics_in_Dermatology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Computational and Structural Biotechnology Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Computational_and_Structural_Biotechnology_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Computational Linguistics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Computational_Linguistics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Contemporary accounting research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Contemporary_accounting_research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cultural Anthropology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cultural_Anthropology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Dermatologica Sinica.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Dermatologica_Sinica.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Design Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Design_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Development and Psychopathology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Development_and_Psychopathology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Digital Communications and Networks.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Digital_Communications_and_Networks.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Egyptian Informatics Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Egyptian_Informatics_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Electronic Markets.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Electronic_Markets.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Emerging Infectious Diseases.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Emerging_Infectious_Diseases.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Emerging microbes and infections.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Emerging_microbes_and_infections.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Engineering Science and Technology, an International Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Engineering_Science_and_Technology,_an_International_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Entrepreneurship and Sustainability Issues.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Entrepreneurship_and_Sustainability_Issues.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Environmental Values.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Environmental_Values.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Eurasian Business Review.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Eurasian_Business_Review.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European Journal of Public Health.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European_Journal_of_Public_Health.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European journal of research methods for the behavioral and social sciences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European_journal_of_research_methods_for_the_behavioral_and_social_sciences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European Management Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European_Management_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European Policy Analysis.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European_Policy_Analysis.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European Research on Management and Business Economics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\European_Research_on_Management_and_Business_Economics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Experimental Dermatology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Experimental_Dermatology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Financial Innovation.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Financial_Innovation.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Fish Physiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Fish_Physiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Food and Energy Security.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Food_and_Energy_Security.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Forum of Mathematics, Pi.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Forum_of_Mathematics,_Pi.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Foundations and Trends in Databases.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Foundations_and_Trends_in_Databases.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Foundations and Trends in Networking.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Foundations_and_Trends_in_Networking.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Foundations and Trends in Programming Languages.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Foundations_and_Trends_in_Programming_Languages.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Foundations and Trends in Signal Processing.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Foundations_and_Trends_in_Signal_Processing.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Frontiers in Cellular and Infection Microbiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Frontiers_in_Cellular_and_Infection_Microbiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Frontiers in microbiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Frontiers_in_microbiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Handbook of Computational Economics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Handbook_of_Computational_Economics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Heritage Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Heritage_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\IEEE Communications Surveys and Tutorials.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\IEEE_Communications_Surveys_and_Tutorials.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\IEEE Transactions on Computers.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\IEEE_Transactions_on_Computers.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\IEEE Transactions on Pattern Analysis and Machine Intelligence.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\IEEE_Transactions_on_Pattern_Analysis_and_Machine_Intelligence.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\IETE journal of research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\IETE_journal_of_research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian Journal of Agricultural Biochemistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_Journal_of_Agricultural_Biochemistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian Journal of Medical Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_Journal_of_Medical_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian journal of microbiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_journal_of_microbiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian Journal of Ophthalmology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_Journal_of_Ophthalmology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian Journal of Orthopaedics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_Journal_of_Orthopaedics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian Journal of Pediatrics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_Journal_of_Pediatrics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian journal of pharmaceutical sciences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_journal_of_pharmaceutical_sciences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian Journal of Pharmacology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_Journal_of_Pharmacology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian Journal of Psychiatry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_Journal_of_Psychiatry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian journal of surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_journal_of_surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian Pediatrics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Indian_Pediatrics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Infectious diseases of poverty.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Infectious_diseases_of_poverty.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Information Systems Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Information_Systems_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Innovation Policy and the Economy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Innovation_Policy_and_the_Economy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International Journal of Building Performance Simulation.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International_Journal_of_Building_Performance_Simulation.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International journal of clinical pharmacy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International_journal_of_clinical_pharmacy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International Journal of Design.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International_Journal_of_Design.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International Journal of Health Geographics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International_Journal_of_Health_Geographics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International Journal of Nanomedicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International_Journal_of_Nanomedicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International journal of nursing studies.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International_journal_of_nursing_studies.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International Journal of Surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International_Journal_of_Surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International Materials Reviews.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\International_Materials_Reviews.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\JAMA Ophthalmology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\JAMA_Ophthalmology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\JAMA Surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\JAMA_Surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Japanese Dental Science Review.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Japanese_Dental_Science_Review.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of advanced research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_advanced_research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\journal of agricultural economics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\journal_of_agricultural_economics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Animal Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Animal_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Ayurveda and integrative medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Ayurveda_and_integrative_medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Banking and Finance.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Banking_and_Finance.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Big Data.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Big_Data.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Business Ethics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Business_Ethics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Business Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Business_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Chemical Education.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Chemical_Education.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Chemical Sciences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Chemical_Sciences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Chemistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Chemistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Civil Engineering and Management.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Civil_Engineering_and_Management.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of cleaner production.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_cleaner_production.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Clinical Anesthesia.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Clinical_Anesthesia.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of clinical pathology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_clinical_pathology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Clinical Periodontology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Clinical_Periodontology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Dentistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Dentistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Dermatological Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Dermatological_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of diabetes investigation.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_diabetes_investigation.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Diabetes Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Diabetes_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Endodontics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Endodontics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Environmental Chemical Engineering.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Environmental_Chemical_Engineering.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Environmental Sciences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Environmental_Sciences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Esthetic and Restorative Dentistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Esthetic_and_Restorative_Dentistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Eurasian Studies.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Eurasian_Studies.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Finance.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Finance.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of food and drug analysis.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_food_and_drug_analysis.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Food Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Food_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Forensic and Legal Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Forensic_and_Legal_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of integrative agriculture.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_integrative_agriculture.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of International Business Studies.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_International_Business_Studies.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of International Economics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_International_Economics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Investigative Dermatology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Investigative_Dermatology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Machine Learning Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Machine_Learning_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of managed care and specialty pharmacy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_managed_care_and_specialty_pharmacy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of management.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_management.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Marine Science and Technology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Marine_Science_and_Technology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Materials Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Materials_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of medical case reports.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_medical_case_reports.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of neuroscience.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_neuroscience.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Occupational Science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Occupational_Science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Oncology Practice.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Oncology_Practice.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Ophthalmology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Ophthalmology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of oral biology and craniofacial research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_oral_biology_and_craniofacial_research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of oral biosciences.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_oral_biosciences.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Oral Microbiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Oral_Microbiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Organic Chemistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Organic_Chemistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Orthopaedics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Orthopaedics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of pathology Clinical research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_pathology_Clinical_research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of pharmaceutical and biomedical analysis.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_pharmaceutical_and_biomedical_analysis.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Public Health.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Public_Health.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Pure and Applied Microbiology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Pure_and_Applied_Microbiology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Small Business Strategy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Small_Business_Strategy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Statistical Software.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Statistical_Software.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of the ACM.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_the_ACM.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of the American Academy of Dermatology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_the_American_Academy_of_Dermatology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of the American College of Surgeons.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_the_American_College_of_Surgeons.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of the american dental association.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_the_american_dental_association.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal of Wildlife Management.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Journal_of_Wildlife_Management.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Laboratory Phonology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Laboratory_Phonology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Language Learning and Technology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Language_Learning_and_Technology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Life Sciences Society and Policy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Life_Sciences_Society_and_Policy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Life Sciences, Society and Policy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Life_Sciences,_Society_and_Policy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Light_ Science and Applications.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Light__Science_and_Applications.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Living Reviews in Relativity.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Living_Reviews_in_Relativity.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Living Reviews in Solar Physics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Living_Reviews_in_Solar_Physics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Materials Today.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Materials_Today.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Medical Journal Armed Forces India.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Medical_Journal_Armed_Forces_India.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\MMWR Recommendations and Reports.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\MMWR_Recommendations_and_Reports.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\MMWR Recommendations and ReportsOpen Access.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\MMWR_Recommendations_and_ReportsOpen_Access.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Modern pathology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Modern_pathology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Molecular Cancer.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Molecular_Cancer.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature Biotechnology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature_Biotechnology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature Communications.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature_Communications.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature Energy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature_Energy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature Materials.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature_Materials.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature Reviews Cancer.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature_Reviews_Cancer.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature Reviews Genetics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature_Reviews_Genetics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature Reviews Materials.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature_Reviews_Materials.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature Reviews Molecular Cell Biology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nature_Reviews_Molecular_Cell_Biology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\New journal of chemistry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\New_journal_of_chemistry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\npj Computational Materials.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\npj_Computational_Materials.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\npj Quantum Information.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\npj_Quantum_Information.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nucleic Acids Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nucleic_Acids_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\NursingPlus Open.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\NursingPlus_Open.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nutrition and Diabetes.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Nutrition_and_Diabetes.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Operations Research Perspectives.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Operations_Research_Perspectives.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Pakistan Journal of Botany.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Pakistan_Journal_of_Botany.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Pharmaceutical Chemistry Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Pharmaceutical_Chemistry_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Pharmaceutical patent analyst.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Pharmaceutical_patent_analyst.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Physical Review X.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Physical_Review_X.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Phytomedicine International Journal of Phytotherapy and Phytopharmacology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Phytomedicine_International_Journal_of_Phytotherapy_and_Phytopharmacology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Plant Biotechnology Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Plant_Biotechnology_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Polymer engineering and science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Polymer_engineering_and_science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Procedia computer science.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Procedia_computer_science.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Public Health Reports.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Public_Health_Reports.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Research and Practice in Technology Enhanced Learning.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Research_and_Practice_in_Technology_Enhanced_Learning.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Reviews of Modern Physics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Reviews_of_Modern_Physics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Science advances.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Science_advances.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Science and technology of advanced materials.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Science_and_technology_of_advanced_materials.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Science and Technology of Archaeological Research.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Science_and_Technology_of_Archaeological_Research.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Scientific data.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Scientific_data.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Scientific Reports.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Scientific_Reports.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Survey of Ophthalmology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Survey_of_Ophthalmology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Sustainable chemistry and pharmacy.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Sustainable_chemistry_and_pharmacy.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The american journal of medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_american_journal_of_medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The American Journal of Psychiatry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_American_Journal_of_Psychiatry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The American Journal of Surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_American_Journal_of_Surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The american journal of surgical pathology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_american_journal_of_surgical_pathology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The American Statistician.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_American_Statistician.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The Journal of Bone and Joint Surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_Journal_of_Bone_and_Joint_Surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The Journal of Emergency Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_Journal_of_Emergency_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The Journal of pathology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_Journal_of_pathology.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The Journal of Pediatrics.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_Journal_of_Pediatrics.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The Lancet Global Health.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_Lancet_Global_Health.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The Lancet.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_Lancet.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The New England Journal of Medicine.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_New_England_Journal_of_Medicine.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The Social Science Journal.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\The_Social_Science_Journal.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Virtual Archaeology Review.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Virtual_Archaeology_Review.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\World Journal of Surgery.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\World_Journal_of_Surgery.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\World Psychiatry.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\World_Psychiatry.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Africa Development\Afrique et Developpement.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Africa Development\Afrique_et_Developpement.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cailiao Gongcheng\Journal of Materials Engineering.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Cailiao Gongcheng\Journal_of_Materials_Engineering.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\MMWR. Surveillance summaries _ Morbidity and mortality weekly report. Surveillance summaries\ CDC.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\MMWR. Surveillance summaries _ Morbidity and mortality weekly report. Surveillance summaries\_CDC.json
+

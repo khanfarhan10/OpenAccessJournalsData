@@ -5,6 +5,9 @@ python clean_files.py
 in filepath as Kaggle Datasets don't support it
 Unfortunately we could not create your dataset.
 File name contains invalid character (=):
+
+Unfortunately we could not create your dataset.
+File or directory name must not have leading or trailing whitespaces: CDC.json
 """
 
 import os
@@ -13,7 +16,7 @@ import pandas as pd
 ROOT_DIR = os.getcwd()
 DATA_PATH = os.path.join(ROOT_DIR, "Journals_Metadata")
 
-CHARS_TO_REPLACE = ["&", "="]
+CHARS_TO_REPLACE = ["&", "="," "]
 REPLACE_BY = "_"
 
 
