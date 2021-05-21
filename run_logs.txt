@@ -1,0 +1,7 @@
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Addiction science & clinical practice.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Addiction science _ clinical practice.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC pharmacology & toxicology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC pharmacology _ toxicology.json
+
+G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian journal of rural medicine _ the official journal of the Society of Rural Physicians of Canada = Journal canadien de la médecine rurale _ le journal officiel de la Société de médecine rurale du Canada.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Canadian journal of rural medicine _ the official journal of the Society of Rural Physicians of Canada _ Journal canadien de la médecine rurale _ le journal officiel de la Société de médecine rurale du Canada.json
