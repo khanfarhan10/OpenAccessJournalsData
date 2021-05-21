@@ -1,0 +1,4 @@
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Addiction science & clinical practice.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\Addiction science _ clinical practice.json
+Renamed : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC pharmacology & toxicology.json
+To : G:\GitLab\OpenAccessJournalsData\Journals_Metadata\Journals_Metadata\BMC pharmacology _ toxicology.json

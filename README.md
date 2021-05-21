@@ -10,3 +10,8 @@ Accessed on : 21-05-2021
 
 
 ### View Notebooks for learning how I actually Scraped the Data!
+
+### View the Loading Notebook to understand how to load the data.
+
+#### Changelog
+- & was changed to _ in filepath as Kaggle Datasets don't support it
